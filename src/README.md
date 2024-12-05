@@ -1,0 +1,3 @@
+This project is a Joke Generator built using React. It fetches random jokes from the JokeAPI and displays them in a playful and interactive interface. The app also features an emoji rain effect that triggers whenever a new joke is generated, adding a layer of fun to the experience.  The application is styled using CSS, and animations such as a "drunk text" effect for the title and a wiggle effect on the button make the app more dynamic. Additionally, the app is designed to be fully responsive, ensuring it looks great on both mobile and desktop devices. 
+
+Link to where app is deplyed: https://c7t9hd.csb.app/. 
